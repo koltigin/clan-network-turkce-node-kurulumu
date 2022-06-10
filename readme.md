@@ -78,7 +78,7 @@ Gerekli düzenlemeleri yapıyoruz: chainid - peer - monikername
 CHAIN_ID=playstation-2
 ```
 
-# TEST yazan kısmı kendinize göre düzenleyin, örnek MONIKER_NAME="RUES" :
+# TEST yazan kısmı kendinize göre düzenleyin, örnek MONIKER_NAME="KolTigin" :
 
 ```
 MONIKER_NAME="TEST"
@@ -119,7 +119,7 @@ cland keys add <key-name>
 
 ```
 apt-get install screen
-screen -S clan
+screen -S Clan
 cland start
 ```
 
