@@ -1,4 +1,4 @@
-# Clan Network - Testnet
+# Clan Network Türkçe Node Kurulumu
 
 Clan Network için test ağları deposu
 
